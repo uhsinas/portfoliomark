@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Cookie&family=Courgette&family=Dancing+Script&family=Diplomata+SC&family=Fredoka+One&family=Great+Vibes&family=Lobster&family=Lobster+Two&family=Monoton&family=PT+Sans+Narrow&family=Pacifico&family=Patua+One&family=Rubik+Beastly&family=Rubik+Mono+One&family=Rubik+Moonrocks&family=Rubik:wght@300&family=Satisfy&family=Stoke:wght@300&family=Tangerine&family=The+Nautigal&display=swap');
+
+body {
+
+    text-align: center;
+    background-color: bisque;
+    margin: 0px;
+
+
+}
+
+.menu {
+    position: fixed;
+    background-color: burlywood;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.links {
+    display: inline;
+    padding-left: 20px;
+    padding: 20px;
+    font-family: 'Lobster', cursive;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(2, 57, 2);
+    text-shadow: 3px, 2px, 2px black;
+
+}
+
+.links:hover {
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+#welcome {
+    background: linear-gradient(darkgreen, bisque);
+
+}
+
+img {
+    border-radius: 200px;
+    margin-top: 53px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 100;
+}
+
+#name {
+    line-height: 50px;
+    font-family: 'Lobster', cursive;
+
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Lobster', cursive;
+}
+
+#bio {
+    font-family: 'Lobster', cursive;
+    padding: 50px;
+}
+
+.lines {
+    height: 50px;
+    background-color: black;
+    width: 50px;
+    margin: auto;
+
+}
+
+p {
+    font-size: 25px;
+}
+
+#writings a {
+    text-decoration: underline;
+}
+
+#writings a:hover {
+    color: red;
+}
+#contact{
+    background-color: brown;
+}
+#contact iframe{
+    width: 100%;
+    margin-top: 10px;
+}
+.contact_1 a{
+    color: antiquewhite;
+    text-shadow: none;
+}
+.contact_1 h3{
+    display: inline;
+}
